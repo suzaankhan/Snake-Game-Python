@@ -4,3 +4,12 @@ Snake Game made using pygame module. Has sound effects on game over and food eat
 ## GamePlay (laggy because of screen recorder)
 https://github.com/user-attachments/assets/d6322e12-a306-40fe-b45d-e663bfe30805
 
+## Home Screen
+![Home Screen](./assets/home-screen.png)
+
+## Game
+![Game](./assets/game.png)
+
+## Game Over
+![Game Over](./assets/game-over.png)
+
